@@ -1,3 +1,4 @@
+
 # Практика по Github
 ## isp-1-23, RadzabovRS
 Из прошлой работы я узнал следующие git 
@@ -15,3 +16,4 @@
 *git diff <хэш>
 *git reset <хэш>
 *git reset --hard <хэш>
+
